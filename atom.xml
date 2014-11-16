@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://orasisz.github.io/atom.xml" rel="self"/>
   <link href="http://orasisz.github.io/"/>
-  <updated>2014-11-17T01:59:51+08:00</updated>
+  <updated>2014-11-17T02:37:36+08:00</updated>
   <id>http://orasisz.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[轻松安装Octopress]]></title>
+    <link href="http://orasisz.github.io/blog/2014/11/17/qing-song-an-zhuang-octopress/"/>
+    <updated>2014-11-17T02:19:34+08:00</updated>
+    <id>http://orasisz.github.io/blog/2014/11/17/qing-song-an-zhuang-octopress</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
