@@ -5,7 +5,7 @@
 	<script data-cfasync="false" type="text/javascript" src="//use.typekit.net/axj3cfp.js"></script>
 	<script data-cfasync="false" type="text/javascript">try{Typekit.load();}catch(e){}</script>
 	<meta charset="utf-8">
-	<title>A blogging framework for hackers.  | Orasis的IT人生</title>
+	<title>书宜杂读 业益精钻  | Orasis的IT人生</title>
 
 <meta name="author" content="Orasis Zhang"> 
 
@@ -56,14 +56,40 @@ $(document).ready(
 );
 </script>
 
-	
+	<!-- MathJax -->
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+</script>
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      tex2jax: {
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+      }
+    });
+</script>
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Queue(function() {
+        var all = MathJax.Hub.getAllJax(), i;
+        for(i=0; i < all.length; i += 1) {
+            all[i].SourceElement().parentNode.className += ' has-jax';
+        }
+    });
+</script>
+<script type="text/javascript"
+   src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
 </head>
 
 
 
 <body>
 	<header id="header" class="inner"><h1><a href="/">Orasis的IT人生</a></h1>
-<h4>A blogging framework for hackers.</h4>
+<h4>书宜杂读 业益精钻</h4>
 <nav id="main-nav"><ul>
 	<li><a href="/">Blog</a></li>
 	<li><a href="/about">About</a></li>
@@ -102,7 +128,7 @@ $(document).ready(
     <article class="post">
 	<h2 class="title">
 		
-		<a href="/blog/2014/11/17/qing-song-an-zhuang-octopress/">
+		<a href="/blog/qing-song-an-zhuang-octopress.html/">
 		
 			轻松安装Octopress</a>
 	</h2>

@@ -4,7 +4,7 @@
   <title><![CDATA[Orasis的IT人生]]></title>
   <link href="http://orasisz.github.io/atom.xml" rel="self"/>
   <link href="http://orasisz.github.io/"/>
-  <updated>2014-11-21T22:31:11+08:00</updated>
+  <updated>2014-11-21T22:55:31+08:00</updated>
   <id>http://orasisz.github.io/</id>
   <author>
     <name><![CDATA[Orasis Zhang]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[轻松安装Octopress]]></title>
-    <link href="http://orasisz.github.io/blog/2014/11/17/qing-song-an-zhuang-octopress/"/>
+    <link href="http://orasisz.github.io/blog/qing-song-an-zhuang-octopress.html/"/>
     <updated>2014-11-17T02:19:34+08:00</updated>
-    <id>http://orasisz.github.io/blog/2014/11/17/qing-song-an-zhuang-octopress</id>
+    <id>http://orasisz.github.io/blog/qing-song-an-zhuang-octopress</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
