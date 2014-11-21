@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Orasis的IT人生]]></title>
   <link href="http://orasisz.github.io/atom.xml" rel="self"/>
   <link href="http://orasisz.github.io/"/>
-  <updated>2014-11-17T02:37:36+08:00</updated>
+  <updated>2014-11-21T22:31:11+08:00</updated>
   <id>http://orasisz.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Orasis Zhang]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
